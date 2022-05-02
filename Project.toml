@@ -1,0 +1,4 @@
+name = "JSON4"
+uuid = "cd119bf6-97b0-47de-9114-8cb2f172dd1c"
+authors = ["Jacob Quinn <quinn.jacobd@gmail.com>"]
+version = "0.1.0"
